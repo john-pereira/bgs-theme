@@ -1,0 +1,523 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"background": true,
+			"custom": true,
+			"customDuotone": true,
+			"customGradient": true,
+			"defaultDuotone": true,
+			"defaultGradients": true,
+			"defaultPalette": true,
+			"palette": [
+				{
+					"color": "#35393C",
+					"name": "primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#64686B",
+					"name": "secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#CCF6FF",
+					"name": "terciary",
+					"slug": "terciary"
+				},
+				{
+					"color": "#EC9929",
+					"name": "contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#FFF",
+					"name": "white",
+					"slug": "white"
+				},
+				{
+					"color": "#000",
+					"name": "black",
+					"slug": "black"
+				},
+				{
+					"color": "rgb(255, 255, 255, 0)",
+					"name": "transparent",
+					"slug": "transparent"
+				}
+			],
+			"text": true
+		},
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1200px"
+		},
+		"spacing": {
+			"spacingSizes": [
+				{
+					"name": "1",
+					"size": "0.5rem",
+					"slug": "10"
+				},
+				{
+					"name": "2",
+					"size": "clamp(0.75rem, 0.5rem + 0.625vw, 1rem)",
+					"slug": "20"
+				},
+				{
+					"name": "3",
+					"size": "clamp(1.25rem, 1rem + 0.625vw, 1.5rem)",
+					"slug": "30"
+				},
+				{
+					"name": "4",
+					"size": "clamp(1.75rem, 1.571rem + 0.625vw, 2rem)",
+					"slug": "40"
+				},
+				{
+					"name": "5",
+					"size": "clamp(2.25rem, 2.071rem + 0.625vw, 2.5rem)",
+					"slug": "50"
+				},
+				{
+					"name": "6",
+					"size": "clamp(3rem, 2.5rem + 1.25vw, 3.5rem)",
+					"slug": "60"
+				},
+				{
+					"name": "7",
+					"size": "clamp(4rem, 3rem + 2.5vw, 5rem)",
+					"slug": "70"
+				}
+			],
+			"units": [
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw",
+				"%"
+			]
+		},
+		"typography": {
+			"customFontSize": true,
+			"dropCap": true,
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif",
+					"name": "System fonts",
+					"slug": "system-fonts"
+				},
+				{
+					"fontFamily": "Barlow",
+					"name": "Barlow fonts",
+					"slug": "barlow-fonts"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": "file:./assets/fonts/7cHrv4kjgoGqM7E3b8s5yn4hnCci.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3w-oc5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3p-kc5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/7cHpv4kjgoGqM7EPDsE46HsxnA.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3_-gc5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E30-8c5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3t-4c5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3q-0c5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/7cHqv4kjgoGqM7E3j-wc5VAtlT47dw.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": "file:./assets/fonts/7cHtv4kjgoGqM7E_CfNYwH8DmTcibrA.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfP04Vostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfOQ4lostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/7cHrv4kjgoGqM7E_Ccs5yn4hnCci.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfPI41ostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfOA5Vostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfOc5lostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfO451ostzsrd6m9.woff2"
+						},
+						{
+							"fontFamily": "Barlow",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/7cHsv4kjgoGqM7E_CfPk5Fostzsrd6m9.woff2"
+						}
+					],
+					"fontFamily": "Barlow, sans-serif",
+					"name": "Barlow",
+					"slug": "barlow"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Comfortaa",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMPrEVIT9c2c8.woff2"
+						},
+						{
+							"fontFamily": "Comfortaa",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMPrEVIT9c2c8.woff2"
+						},
+						{
+							"fontFamily": "Comfortaa",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMPrEVIT9c2c8.woff2"
+						},
+						{
+							"fontFamily": "Comfortaa",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLPrEVIT9c2c8.woff2"
+						},
+						{
+							"fontFamily": "Comfortaa",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LPrEVIT9c2c8.woff2"
+						}
+					],
+					"fontFamily": "Comfortaa, system-ui",
+					"name": "Comfortaa",
+					"slug": "comfortaa"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTY9jo7eTWk.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXA3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3A3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3j6zbXWnoeg.woff2"
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHc3j6zbXWnoeg.woff2"
+						}
+					],
+					"fontFamily": "Nunito, sans-serif",
+					"name": "Nunito",
+					"slug": "nunito"
+				}
+			],
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Small",
+					"size": "1rem",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "1.125rem",
+						"min": "1rem"
+					},
+					"name": "Medium",
+					"size": "1.125rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "2rem",
+						"min": "2.5rem"
+					},
+					"name": "Large",
+					"size": "1.5rem",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "3rem",
+						"min": "2.5rem"
+					},
+					"name": "XL",
+					"size": "3rem",
+					"slug": "x-large"
+				},
+				{
+					"fluid": {
+						"max": "3.75rem",
+						"min": "3rem"
+					},
+					"name": "XXL",
+					"size": "3.75rem",
+					"slug": "xx-large"
+				}
+			],
+			"fontStyle": true,
+			"fontWeight": true,
+			"letterSpacing": true,
+			"textDecoration": true,
+			"textTransform": true
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"border": {
+					"radius": "5px"
+				},
+				"color": {
+					"background": "var(--wp--preset--color--contrast)",
+					"text": "var(--wp--preset--color--primary)"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--primary)"
+						}
+					}
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "var(--wp--preset--spacing--10)",
+						"left": "var(--wp--preset--spacing--20)",
+						"right": "var(--wp--preset--spacing--20)",
+						"top": "var(--wp--preset--spacing--10)"
+					}
+				}
+			},
+			"core/buttons": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"textTransform": "uppercase"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--primary)",
+			"text": "var(--wp--preset--color--contrast)"
+		},
+		"elements": {
+			"button": {
+				":focus": {
+					"outline": {
+						"color": "var(--wp--preset--color--contrast)",
+						"offset": "3px",
+						"style": "solid",
+						"width": "3px"
+					}
+				},
+				":hover": {
+					"outline": {
+						"color": "var(--wp--preset--color--contrast)",
+						"offset": "3px",
+						"style": "dashed",
+						"width": "3px"
+					}
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--terciary)"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--terciary)"
+				}
+			}
+		},
+		"spacing": {
+			"blockGap": "var(--wp--preset--spacing--30)",
+			"padding": {
+				"bottom": "0px",
+				"left": "2rem",
+				"right": "2rem",
+				"top": "0px"
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--barlow)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"lineHeight": "1.5"
+		}
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "general-header",
+			"title": "general Header"
+		},
+		{
+			"area": "footer",
+			"name": "general-footer",
+			"title": "General Footer"
+		}
+	],
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json"
+}
